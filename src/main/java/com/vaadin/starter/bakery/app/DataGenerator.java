@@ -486,7 +486,7 @@ public class DataGenerator implements HasLogger {
 	 * @param passwordHash Hashed password
 	 * @param role         Role of the user
 	 * @param locked       Whether the account is locked
-	 * @return Newly created User
+	 * @return Newly created User.
 	 */
 	private User createUser(String email, String firstName, String lastName, String passwordHash, String role,
 			boolean locked) {
