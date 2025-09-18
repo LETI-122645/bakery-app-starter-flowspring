@@ -1,5 +1,13 @@
 # ⚠️ This starter is not recommended ⚠️
 
+Grupo:
+
+Gabriel Gonzaga - 122641.
+
+Rafael Costa - 122645.
+
+Alexandre - 122657.
+
 **This starter is not recommended for new Vaadin Flow applications. Instead, visit [start.vaadin.com](https://start.vaadin.com/) to configure and download a Vaadin project that reflects the current best practices.**
 
 
