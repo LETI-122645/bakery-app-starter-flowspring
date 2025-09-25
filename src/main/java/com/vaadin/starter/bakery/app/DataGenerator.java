@@ -31,7 +31,7 @@ import com.vaadin.starter.bakery.backend.repositories.ProductRepository;
 import com.vaadin.starter.bakery.backend.repositories.UserRepository;
 
 /**
- * Generates demo data for the application. This includes users, products, pickup locations, and orders.
+ * Generates demo data for the application. This includes users, products, pickup locations, and order thinks.
  * Automatically loads data on application startup if the database is empty.
  */
 @SpringComponent
